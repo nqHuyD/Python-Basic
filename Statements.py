@@ -30,8 +30,23 @@
 # else:
 #     print("Can't not loan")
 
-has_good_credit = True
-has_criminal_record = False
+# has_good_credit = True
+# has_criminal_record = False
+#
+# if has_good_credit and not has_criminal_record:
+#     print("Eligible for loan")
 
-if has_good_credit and not has_criminal_record:
-    print("Eligible for loan")
+# temperature = 30
+# if temperature > 30:
+#     print("It's a hot day")
+# else:
+#     print("It's not a hot day")
+
+# weight = input('Weight: ')
+# unit = input('(L)bs or (K)g: ')
+# if unit.upper() == "L":
+#     converted = int(weight) * 0.45
+#     print(f"You are {converted} kilos")
+# else:
+#     converted = int(weight) // 0.45
+#     print(f"You are {converted} pounds")
